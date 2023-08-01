@@ -3,7 +3,13 @@
         <td>
             <div id="resume">
                 <img src = "https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=38&pause=1000&color=05C900&width=435&lines=Say+my+name..." alt="W.W."/>
-                <p>👨🏻‍💻 I'm a cybersecurity analyst and developer. Just.</p>    
+                <p>👨🏻‍💻 I'm a cybersecurity analyst and developer. Just.</p>
+                <a href="https://www.linkedin.com/in/jvrajunior/">
+                    <img align="left" src="https://github.com/yushi1007/yushi1007/blob/main/images/linkedin.svg" alt="LinkedIn" width="21px"/>
+                </a>
+                <a href="https://instagram.com/jvrajunior">
+                    <img align="left" src="https://github.com/yushi1007/yushi1007/blob/main/images/instagram.svg" alt="Instagram" width="21px"/>
+                </a>
             </div>
         </td>
         <td rowspan="3">
@@ -23,7 +29,7 @@
     <tr>
         <td>
             <div id="ctf">
-                <h2>Capture The Flag!</h2>
+                <h2>r00t!</h2>
                 <a href="https://tryhackme.com/p/l0rdM4gno">
                     <img src="https://tryhackme-badges.s3.amazonaws.com/l0rdM4gno.png" alt="TryHackMe"">
                 </a>
