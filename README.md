@@ -3,7 +3,7 @@
         <td>
             <div id="resume">
                 <img src = "https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=28&pause=1000&color=05C900&width=435&lines=Say+my+name..." alt="W.W."/>
-                <p>👨🏻‍💻 I'm a cybersecurity analyst and developer. Just.</p>
+                <p>👨🏻‍💻 I'm a cybersecurity analyst and developer.</p>
                 <a href="https://www.linkedin.com/in/jvrajunior/">
                     <img align="left" src="https://github.com/yushi1007/yushi1007/blob/main/images/linkedin.svg" alt="LinkedIn" width="21px"/>
                 </a>
