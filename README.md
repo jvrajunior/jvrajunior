@@ -31,7 +31,7 @@
             <div id="ctf">
                 <h2>r00t!</h2>
                 <a href="https://tryhackme.com/p/l0rdm4gn0">
-                    <img src="https://tryhackme-badges.s3.amazonaws.com/l0rdM4gno.png" alt="TryHackMe">
+                    <img src="https://tryhackme-badges.s3.amazonaws.com/l0rdm4gn0.png" alt="TryHackMe">
                 </a>
                 <a href="https://app.hackthebox.com/profile/894757">
                     <img src="https://www.hackthebox.eu/badge/image/894757" alt="Hack The Box">
